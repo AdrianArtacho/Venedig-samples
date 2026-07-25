@@ -6,7 +6,7 @@ ist wunderbar - nehme ich gleich so.
 > 2. Meer-Atmo <!-- MIDI=61; KEY=b -->
 Ist super. Gut wären noch starke Windgeräusche (mittelstarker Wind) dazu?
 Das knarzende Geräusch lässt an ein grösseres Schiff denken. Eher weniger davon
-Wenn möglich mehr von einem klatschenden <mark>großen Schlauchboot<\mark> mit Motor.
+Wenn möglich mehr von einem klatschenden <mark>großen Schlauchboot</mark> mit Motor.
 (Im Text neu: Meg ist Klimaaktivistin sie sendet live Beiträge gleich via media
 Den ersten Beitrag bei starkem Wind auf dem Boot)
 >
