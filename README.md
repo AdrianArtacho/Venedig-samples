@@ -13,8 +13,8 @@ Den ersten Beitrag bei starkem Wind auf dem Boot)
 > 3. **Ominous-Crescendo**
 Sehr super. Als umfassende Atmo, die mehr oder weniger ständig in der
 Tauchkapsel vorhanden ist. Ich denke das ist das Absinken. Wunderbar. Nehme ich auch so Brauchen davon dann eh einen <mark>längeren Part, den wir loopen</mark> können natürlich.
-    Dasselbe mit <mark>Variation für: unten stehend</mark> möglich?
-    Dasselbe mit <mark>Variation für: aufsteigen</mark> möglich?
+    - Dasselbe mit <mark>Variation für: unten stehend</mark> möglich?
+    - Dasselbe mit <mark>Variation für: aufsteigen</mark> möglich?
 >
 > 4. **Herzschlag-Crescendo**
 Ist super. Kann ich gut für bestimmte Situationen verwenden.
