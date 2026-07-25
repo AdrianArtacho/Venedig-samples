@@ -1,6 +1,6 @@
 # Venedig Unter (samples)
 
-> 1. Schallkanone <!-- MIDI=60; KEY=a; NAME=SchallKannone; TYPE=1shot -->
+> 1. **Schallkanone** <!-- MIDI=60; KEY=a; NAME=SchallKannone; TYPE=1shot -->
 ist wunderbar - nehme ich gleich so.
 >
 > 2. Meer-Atmo <!-- MIDI=61; KEY=b -->
