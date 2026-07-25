@@ -1,6 +1,7 @@
 # Venedig Unter (samples)
 
-> 1. Schallkanone   <60;a;0.mp3;1shot>
+> 1. Schallkanone
+<60;a;0.mp3;1shot>
 ist wunderbar - nehme ich gleich so.
 >
 > 2. Meer-Atmo
