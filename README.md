@@ -19,6 +19,14 @@ Tauchkapsel vorhanden ist. Ich denke das ist das Absinken. Wunderbar. Nehme ich 
 > 4. **Herzschlag-Crescendo**
 Ist super. Kann ich gut für bestimmte Situationen verwenden.
 Nehme ich auch gleich so.
+Ich finde das Herzschlag-Crescendo wäre evtl. auch etwas was man zum Grundthema machen könnte.
+Mit weiterentwickelten Rhythmen - für Inszenierung ist so ein evtl. immer spielerischer und dramatischer werdender Rhythmus bis hin zur Auflösung (evtl. abruptes Ende) super! 
+Falls du da noch Ideen hast gerne mehr davon.
+Ich habe auf dem Impulstanz „My fierce igrnorant step“ von Papadopoulos gesehen. Das war sehr faszinierend.
+Hier ein kleiner Eindruck.
+https://youtu.be/5rjJPGuuGHM
+https://youtu.be/zXaEv1cvtg8
+Die Schaltfläche ist gut. Fehlt mir aber ein Lautstärkeregler und Loop - Möglichkeit und dass ich schieben kann von wo ich es abspielen will, Zeitangabe wie lang der Track ist (wieder von vorne abspielen etc.).
 >
 > 5. **Venedig-Strassenatmo**
 Gefällt mir und kann zum Archivmaterial von Venedig (Filme) passen, die Cyb zeigt/einspielt ca. S.20
