@@ -5,6 +5,7 @@
 
 
 # Large media files
-*.waf
+*.wav
 *.aiff
+*.asd
 
